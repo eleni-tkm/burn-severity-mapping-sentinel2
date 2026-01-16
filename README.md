@@ -1,3 +1,5 @@
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+
 #  Burn Area and Burn Severity Mapping with Sentinel-2 Level-2A (RBR)
 
 ## 📌 Overview
