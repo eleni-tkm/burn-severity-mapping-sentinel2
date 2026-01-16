@@ -1,0 +1,1 @@
+# burn-severity-mapping-sentinel2
