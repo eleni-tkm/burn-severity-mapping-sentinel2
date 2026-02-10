@@ -5,7 +5,7 @@ _See how to add badges: https://shields.io/badges_
 
 ## 📌 Overview
 
-This repository contains three Python scripts that implement a **burned area mapping workflow** using **Sentinel-2 Level-2A (L2A) optical satellite imagery**. 
+This repository contains three Python scripts that implement a **burned area mapping workflow** using **Sentinel-2 Level-2A (L2A) satellite imagery**. 
 The final objective is the calculation of the **Relativized Burn Ratio (RBR)** to detect and map burned areas and burn severity following wildfire events.
 
 The workflow follows standard practices in Earth Observation (EO) and remote sensing of wildfires, using surface reflectance data and well-established spectral indices.
