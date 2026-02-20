@@ -111,3 +111,10 @@ _Thresholds may require **local calibration** using field data (e.g. CBI) or reg
 
 1. https://www.mdpi.com/2072-4292/6/3/1827#:~:text=The%20relativized%20burn%20ratio%20(RBR)%20is%20a%20Landsat%2Dbased,improvement%20over%20dNBR%20and%20RdNBR.
 2. https://hal.science/hal-03625184/ 
+
+
+### Further Improvements
+- Avoid hard‑coded function parameters
+- Add the `if __name__ == "__main__"`
+- Provide Instructions on how to run the code
+- Provide Instructions on further processing in QGIS
