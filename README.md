@@ -100,4 +100,14 @@ For applications requiring high thematic accuracy, thresholds should be calibrat
 | `0.44 – 0.66` | Moderate-high severity |
 | `> 0.66` | High severity |
 
+## Burn severity levels obtained calculating dNBR, proposed by USGS 
+_from: Kovács, K. D. (2019). Evaluation of burned areas with Sentinel-2 using SNAP. Geographia Technica, 14(2), 20-38_
+
+<img width="1524" height="484" alt="Screenshot 2026-02-20 145047" src="https://github.com/user-attachments/assets/2a65594b-4264-4950-9673-a7af21d5853d" />
+
 _Thresholds may require **local calibration** using field data (e.g. CBI) or region-specific studies._
+
+🔗 Usefull links
+
+1. https://www.mdpi.com/2072-4292/6/3/1827#:~:text=The%20relativized%20burn%20ratio%20(RBR)%20is%20a%20Landsat%2Dbased,improvement%20over%20dNBR%20and%20RdNBR.
+2. https://hal.science/hal-03625184/ 
