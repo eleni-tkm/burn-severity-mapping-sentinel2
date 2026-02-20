@@ -18,9 +18,9 @@ Sentinel-2 is part of the **Copernicus Programme** of the European Space Agency 
 
 ### Level-2A (L2A):
 
-- Provides **Bottom-Of-Atmosphere (BOA) surface reflectance**
-- Atmospheric effects are corrected using the **Sen2Cor processor**
-- Includes a **Scene Classification Layer (SCL)** for cloud, shadow, snow, and water masking
+- Provides atmospherically corrected **Surface Reflectance (SR)** products from Level-1C products
+- Atmospheric effects are corrected using the [**Sen2Cor processor**](https://step.esa.int/main/snap-supported-plugins/sen2cor/)
+- Includes a **Scene Classification Layer (SCL)** useful for cloud, shadow, snow, and water masking
 - Suitable for spectral index computation without additional atmospheric correction
 
 📘 https://sentiwiki.copernicus.eu/web/s2-products
