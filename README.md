@@ -118,3 +118,4 @@ _Thresholds may require **local calibration** using field data (e.g. CBI) or reg
 - Add the `if __name__ == "__main__"`
 - Provide Instructions on how to run the code
 - Provide Instructions on further processing in QGIS
+- Use an appropriate Python package for data visualization
